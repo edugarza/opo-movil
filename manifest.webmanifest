@@ -1,0 +1,17 @@
+{
+  "name": "OpoApp",
+  "short_name": "OpoApp",
+  "description": "Esquemas, resúmenes, test y tarjetas de la oposición, también sin conexión.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f4f0",
+  "theme_color": "#a3213a",
+  "icons": [
+    { "src": "icono-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icono-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icono-512-mascara.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
